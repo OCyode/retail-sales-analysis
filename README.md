@@ -6,7 +6,9 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Complete-34D399?style=flat)
 
-End-to-end retail sales analysis across three Lagos branches, covering six months of transaction data. The same business questions are answered in **three tools** — SQL for querying, Python for visualization, and Power BI for the interactive dashboard — demonstrating that the analysis logic is tool-agnostic.
+End-to-end retail sales analysis across three Lagos branches, covering six months of transaction data. The analysis logic is tool-neutral because the same business concerns are addressed in **three tools**: Power BI for the interactive dashboard, Python for visualization, and SQL for querying.
+As part of my portfolio, I examined six months' worth of retail sales data from a store in Lagos. Finding out which divisions and goods were genuinely generating profit rather than just income was the aim. 
+The biggest surprise for me was seeing how much margin Clothing products had compared to Electronics, despite the latter dominating revenue. That gap is what provoked the opportunity matrix chart.
 
 ---
 
