@@ -175,9 +175,8 @@ a role where I can turn raw data into decisions that get acted on.
 
 Open to data analyst, BI analyst, and junior analytics engineer roles.
 
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 📧 kayodeosuya@gmail.com
+- 🐙 [GitHub](https://github.com/OCyode)
 
 ---
 
