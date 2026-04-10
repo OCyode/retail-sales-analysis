@@ -1,4 +1,4 @@
-# Nigerian Retail Sales Analysis — Jan to Jun 2025
+# Nigerian Retail Sales Analysis — Jan to Jun 2025: Identifying Revenue Drivers & Margin Opportunities
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite%20%2F%20PostgreSQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,6 +37,7 @@ The biggest surprise for me was seeing how much margin Clothing products had com
 ## Project Structure
 
 ```
+This repository contains an end-to-end analytic workflow from raw data to business recommendations
 retail-sales-analysis/
 │
 ├── data/
@@ -166,14 +167,13 @@ every DAX measure and the full layout spec.
 
 These are the four tools I use day-to-day. Every aggregation in Python has a SQL
 equivalent in the `.sql` file, and every chart has a Power BI counterpart in the
-dashboard — intentionally, to show the analysis logic is consistent across environments.
+dashboard, intentionally, to show the analysis logic is consistent across environments.
 
 ---
 
 ## About
 
-Data analyst with hands-on experience in SQL, Python, and Power BI — looking for
-a role where I can turn raw data into decisions that get acted on.
+Data analyst with hands-on experience in SQL, Python, and Power BI. Seeking to contribute to a data-driven team where insights drive real business decisions
 
 Open to data analyst, BI analyst, and junior analytics engineer roles.
 
